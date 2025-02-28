@@ -52,15 +52,16 @@ Places API
 
 ## 使用方法
 1. このリポジトリをクローンします。
-  　```bash
-git clone <リポジトリURL>
+   ```bash
+   git clone <リポジトリURL>
 2. 必要な依存関係をインストールします:
    ```bash
    npm install
-3.サーバー起動
-node server.js
-4.ブラウザで以下にアクセス
-http://localhost:3000/
+3. サーバーを起動します。
+   ```bash
+   node server.js
+4. ブラウザで以下にアクセス  
+   [http://localhost:3000/](http://localhost:3000/)
 
 ---
 ## 🌟 開発を支援する
