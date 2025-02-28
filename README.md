@@ -63,6 +63,6 @@ node server.js
 http://localhost:3000/
 
 ---
-## 開発を支援する
+## 🌟 開発を支援する
 このツールが役に立ったと感じたら、サポートしていただけると嬉しいです！  
 [Buy Me a Coffee](https://www.buymeacoffee.com/satoshiichiban)
