@@ -53,7 +53,7 @@ Places API
 ## 使用方法
 1. このリポジトリをクローンします。
    ```bash
-   git clone <リポジトリURL>
+   git clone https://github.com/satoshiichiban/NearbyFinder.git
 2. 必要な依存関係をインストールします:
    ```bash
    npm install
