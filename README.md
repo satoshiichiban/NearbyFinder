@@ -1,7 +1,5 @@
 
-## 🎥 Demo Video
-[![Watch the video](https://raw.githubusercontent.com/satoshiichiban/NearbyFinder/main/images/nearbyfinderthumbnnail.png)](https://youtu.be/-_f6wZxinzU)
-
+![サムネイル画像](https://github.com/satoshiichiban/NearbyFinder/blob/main/images/nearbyfinderthumbnnail.png?raw=true)
 
 ## プロジェクト概要
 <br>
