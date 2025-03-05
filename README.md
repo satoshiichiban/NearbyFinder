@@ -1,6 +1,7 @@
 
 ![サムネイル画像](https://raw.githubusercontent.com/satoshiichiban/NearbyFinder/main/images/nearbyfinderthumbnnail.png)
 
+
 ## プロジェクト概要
 <br>
 場所検索の為の、3kmと5kmの距離スイッチ機能を追加しました。
