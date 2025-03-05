@@ -1,6 +1,5 @@
 
-![サムネイル画像](https://raw.githubusercontent.com/satoshiichiban/NearbyFinder/main/images/nearbyfinderthumbnnail.png)
-
+![サムネイル画像](https://github.com/satoshiichiban/NearbyFinder/blob/main/images/nearbyfinderthumbnnail.png?raw=true)
 
 ## プロジェクト概要
 <br>
