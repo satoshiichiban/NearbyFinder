@@ -1,5 +1,8 @@
+
 ## 🎥 Demo Video  
 このツールのデモ動画はこちらです！実際の動作を確認できます👇 
+
+
 [![サムネイル画像](https://github.com/satoshiichiban/NearbyFinder/blob/main/images/nearbyfinderthumbnnail.png?raw=true)](https://youtu.be/-_f6wZxinzU)
 
 ## プロジェクト概要
