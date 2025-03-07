@@ -5,8 +5,8 @@
     <img src="https://github.com/satoshiichiban/NearbyFinder/blob/main/images/flashing-hand2.gif" width="40">
 </p>
 
+[![サムネイル画像](https://github.com/satoshiichiban/NearbyFinder/blob/main/images/nearbyfinderthumbnail.png?raw=true)](https://youtu.be/-_f6wZxinzU)
 
-[![サムネイル画像](https://github.com/satoshiichiban/NearbyFinder/blob/main/images/nearbyfinderthumbnnail.png?raw=true)](https://youtu.be/-_f6wZxinzU)
 
 ## プロジェクト概要
 <br>
