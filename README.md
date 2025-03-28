@@ -1,7 +1,8 @@
 ## 🎥 Demo Video
 このツールのデモ動画はこちらです！  
 実際の動作を確認できます。  
-画像をクリックして再生してみてください。
+**画像をクリック**して再生してみてください。
+
 
 <p align="center">
     <img src="https://github.com/satoshiichiban/NearbyFinder/blob/main/images/flashing-hand2.gif" width="40">
