@@ -61,7 +61,7 @@ Places API
      
 ---
 
-### 使用しているアイコンについて
+## 使用しているアイコンについて
 
 経路表示のホームピンは、Google Fonts の「Material Symbols」から提供されている  
 「Home Pin」アイコンを使用しています。
