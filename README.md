@@ -58,6 +58,21 @@ Places API
    - 例: 「スターバックス」「住所: ◯◯」「距離: 1.2km」など。
 3. **エラーハンドリング**:
    - キーワード未入力時やAPIエラー時に、適切なエラーメッセージを表示。
+     
+---
+
+### 使用しているアイコンについて
+
+経路表示のホームピンは、Google Fonts の「Material Symbols」から提供されている  
+「Home Pin」アイコンを使用しています。
+
+![home icon](images/GithubGoogle公式ホームアイコン.png)
+
+※出典：  
+[Google Fonts - Home Pin (Material Symbols)](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:home_pin)
+
+ライセンス：Apache License 2.0（商用利用・改変可能）
+
 ---
 
 ## 使用方法
