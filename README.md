@@ -66,7 +66,7 @@ Places API
 経路表示のホームピンは、Google Fonts の「Material Symbols」から提供されている  
 「Home Pin」アイコンを使用しています。
 
-![home icon](images/GithubGoogle公式ホームアイコン.png)
+![Home Pin icon](images/Home Pin.png)
 
 ※出典：  
 [Google Fonts - Home Pin (Material Symbols)](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:home_pin)
