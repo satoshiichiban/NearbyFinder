@@ -51,7 +51,7 @@ Places API
   動的処理は、キーワードや現在地をサーバーに送信→Google Places APIで検索結果を生成します。
 
 
-★★動作確認環境
+★★動作確認環境  
 以下のOSで動作確認済みです：
 - macOS（Safari / Google Chrome）
 - Windows 11 Home（24H2）  
