@@ -138,10 +138,11 @@ app.get("/place-details", (req, res) => {
     });
 });
 
-// サーバーを起動
-const PORT = 3000; // ポート番号を指定
-app.listen(PORT, () => {
+// ポート番号は環境変数 PORT を優先→無ければ 3000番を使用
+const PORT = process.env.PORT || 3000;
 
-  console.log(`Server is starting on port ${PORT}`); // サーバー起動時の確認ログ
-  console.log(`Server is running at http://localhost:${PORT}`); // アクセスURLを表示
+app.listen(PORT, () => {
+  console.log(`Server is starting on port ${PORT}`);
+  console.log(`Server is running at http://localhost:${PORT}`);
 });
+
