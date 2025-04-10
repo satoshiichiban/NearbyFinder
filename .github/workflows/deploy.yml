@@ -1,0 +1,29 @@
+name: GitHub Pages デプロイ
+
+on:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: チェックアウト
+      uses: actions/checkout@v3
+
+    - name: GitHub Pages をセットアップ
+      uses: actions/configure-pages@v3
+
+    - name: ファイルをアップロード
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: ./public
+
+    - name: デプロイ
+      uses: actions/deploy-pages@v2
