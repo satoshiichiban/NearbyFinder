@@ -1,4 +1,8 @@
 ## 🎥 Demo Video
+
+※Zenn記事も書きました！ 
+[「はじめまして！ブログを始めます」](https://zenn.dev/satoshiichiban/articles/8ba5073a299db7)
+
 このツールのデモ動画はこちらです！  
 実際の動作を確認できます。  
 **画像をクリック**して再生してみてください。
