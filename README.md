@@ -1,6 +1,5 @@
 ## 🎥 Demo Video
-<br>
-<br>
+<br><br>
 ※Zenn記事も書きました！ 
 [「はじめまして！ブログを始めます」](https://zenn.dev/satoshiichiban/articles/8ba5073a299db7)
 <br>
